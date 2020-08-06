@@ -1,4 +1,4 @@
-# PHP-Ransomware
+# phpRansomware
 ## Introduction
 Simple Ransomware coded in PHP for educational purposes only.<br>
 This ransomware was coded to demonstrate the concept of a ransomware through PHP.<br>
