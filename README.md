@@ -1,9 +1,8 @@
 # PHP-Ransomware
 ## Introduction
 Simple Ransomware coded in PHP for educational purposes only.<br>
-This ransomware was coded to demonstrate the concept of a ransomware through PHP - it's not to use for real attacks - <br>
+This ransomware was coded to demonstrate the concept of a ransomware through PHP.<br>
 The code is just ciphering & deciphering a directory with a key and an IV. <br>
-Actually searching how to detect the extension of a file when it has been deciphered...
 
 ## How to use
 ### Cipher
@@ -23,7 +22,3 @@ ex :
 ### Screenshots
 <img src="https://image.prntscr.com/image/okZF2B5EQRqQ-D1AXfdT4A.png">
 <img src="https://image.prntscr.com/image/kwhlHo-TSIGuRUf1dTvmPQ.png">
-
-## Todo
-- [✓] Detect file extension via first header bytes of the file - in PHP -
-
